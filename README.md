@@ -1,2 +1,6 @@
-# SanduX-MD
-A simple whatsapp user bot by Sandaruwan
+# SanduX
+
+- Not yet published
+
+***
+
